@@ -1,1 +1,1 @@
-# kobocollect_app
+Creating a new survey by admin - select the type of question if its in checkbox,input fomr,drop down etc
